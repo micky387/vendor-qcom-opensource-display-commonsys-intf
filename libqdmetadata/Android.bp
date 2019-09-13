@@ -1,5 +1,6 @@
 cc_library_shared {
     name: "libqdMetaData",
+    owner: "qcom",
     vendor_available: true,
     system_ext_specific: true,
     cflags: [
